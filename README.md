@@ -1,131 +1,51 @@
-# 🚀 Eduardo Neves | Desenvolvedor em Formação
+# Carlos Eduardo Neves dos Santos
 
-👨‍💻 **Full Stack | Back-end Python & Django**
-📍 Tecnologia como agente de transformação
+Desenvolvedor em formação, com foco em **Python**, **Django**, **JavaScript** e construção de aplicações web úteis, organizadas e bem documentadas.
 
----
+## Sobre mim
 
-## 👋 Sobre mim
+Estou desenvolvendo minha base como desenvolvedor full stack, com atenção especial para back-end, APIs, organização de projetos e boas práticas de versionamento. Gosto de transformar ideias simples em sistemas que resolvem problemas reais.
 
-Sou **Eduardo Neves**, estudante de desenvolvimento de software e entusiasta da tecnologia como meio de criar soluções que impactam positivamente a vida das pessoas.
+Atualmente estudo e pratico:
 
-Atualmente, estou em formação como **Desenvolvedor Full Stack**, com foco em **Back-end utilizando Python e Django**, sempre buscando evoluir por meio de estudos contínuos, projetos práticos e boas práticas de desenvolvimento.
+- Python e Django
+- APIs REST
+- JavaScript, HTML e CSS
+- Banco de dados com SQLite e PostgreSQL
+- Git, GitHub e documentação técnica
 
-🌟 **Frase que me define:**
+## Projetos em Destaque
 
-> *"O segredo não é saber tudo, mas nunca parar de aprender."*
+### Agenda SN Beauty
 
----
+Aplicativo de agendamento para salão de beleza, com front-end responsivo, back-end em Node.js/Express, painel administrativo protegido, Supabase opcional, smoke tests e teste visual com Playwright.
 
-## 🛠️ Skills & Tecnologias
+Repositório: [agenda-sn-beauty](https://github.com/csantos18/agenda-sn-beauty)
 
-### 🚀 Linguagens principais
+### DevLAb-Ronilson
 
-* 🐍 **Python**
-* 🌐 **JavaScript**
-* 🧱 **HTML5**
-* 🎨 **CSS3**
+Projeto Django para gestão de eventos, participantes e atividades, criado como prática de back-end e organização de entidades relacionadas.
 
-### ⚛️ Front-end
+Repositório: [DevLAb-Ronilson](https://github.com/csantos18/DevLAb-Ronilson)
 
-* ⚛️ **React** *(em aprendizado)*
+### Campus Event Planner
 
-### ⚙️ Back-end & Frameworks
+Aplicação em Python para planejar eventos acadêmicos via console, com cadastro, listagem e filtros.
 
-* 🟢 **Django**
-* 🔵 **Django REST Framework** *(em aprendizado)*
-* 🟩 **Node.js** *(em aprendizado)*
+Repositório: [campus-event-planner--bfd-team-](https://github.com/csantos18/campus-event-planner--bfd-team-)
 
-### ⚙️ Frameworks & Bibliotecas
+## Tecnologias
 
-* 🟢 **Django**
-* 🔵 **Django REST Framework** *(em aprendizado)*
+```text
+Python | Django | JavaScript | HTML | CSS | SQLite | PostgreSQL | Git | GitHub
+```
 
-### 🗄️ Banco de Dados
+## Em Evolução
 
-* 🐘 **PostgreSQL** *(básico)*
-* 🗃️ **SQLite**
+Este perfil acompanha minha jornada prática como desenvolvedor. Os repositórios estão sendo revisados para ter documentação clara, testes quando aplicável e uma apresentação mais profissional.
 
-### 🔧 Ferramentas & Versionamento
+## Contato
 
-* 🧰 **Git & GitHub**
-* 💻 **VS Code**
-* 🖥️ **Terminal / Git Bash**
-
----
-
-## 🧠 Hard Skills
-
-* ✅ Lógica de programação
-* ✅ Desenvolvimento Back-end com Python e Django
-* ✅ Criação de APIs REST (conceitos)
-* ✅ Versionamento de código com Git
-* ✅ Integração Front-end e Back-end
-* ✅ Estruturação de projetos Full Stack
-
----
-
-## 🤝 Soft Skills
-
-* 💬 Comunicação clara e objetiva
-* 🤝 Trabalho em equipe
-* 📚 Aprendizado contínuo
-* ⏱️ Organização e gestão do tempo
-* 🧩 Resolução de problemas
-* 🚀 Proatividade
-
----
-
-## 📂 Projetos
-
-> ⚠️ *Projetos em constante evolução — este repositório será atualizado conforme novos aprendizados.*
-
-### 📌 Exemplos de projetos:
-
-* 🔹 **Sistema Web com Django** – CRUD, autenticação e organização de dados
-* 🔹 **Projetos acadêmicos Full Stack** – Integração front-end e back-end
-* 🔹 **Estudos práticos em Python** – Lógica, automação e boas práticas
-
-➡️ Confira mais projetos no meu GitHub:
-🔗 [https://github.com/csantos18](https://github.com/csantos18)
-
----
-
-## 📚 Em aprendizado contínuo
-
-* 📖 Desenvolvimento Full Stack
-* 🐍 Back-end com Python e Django
-* 🌐 APIs REST
-* 🔐 Autenticação e segurança básica
-* 🧪 Boas práticas e versionamento
-
----
-
-## 📬 Contato
-
-Vamos conversar e trocar conhecimento?
-
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/csantosneves/](https://www.linkedin.com/in/csantosneves/)
-* 💻 **GitHub:** [https://github.com/csantos18](https://github.com/csantos18)
-* 📧 **E-mail profissional:** [eduardoneves.dev@gmail.com](eduardoneves.dev@gmail.com)
-
----
-
-✨ *Este README reflete minha jornada atual como desenvolvedor e meu compromisso com a evolução constante na área de tecnologia.*
-
-## Hi there 👋
-
-<!--
-**csantos18/csantos18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [linkedin.com/in/csantosneves](https://www.linkedin.com/in/csantosneves/)
+- GitHub: [github.com/csantos18](https://github.com/csantos18)
+- E-mail: [eduardoneves.dev@gmail.com](mailto:eduardoneves.dev@gmail.com)
