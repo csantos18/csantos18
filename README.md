@@ -6,7 +6,7 @@ Desenvolvedor em formação, focado em criar aplicações web úteis, organizada
 
 Atualmente estudo e pratico desenvolvimento full stack, com mais atenção para **back-end**, **APIs**, **Django**, **JavaScript**, versionamento com **Git/GitHub** e construção de projetos com apresentação profissional.
 
-Também participo de projetos acadêmicos no **Instituto Federal de Brasília (IFB), Campus Gama**, em Brasília-DF, onde pratico fundamentos de programação, organização de código, documentação e trabalho em equipe.
+Concluí recentemente o curso de **Desenvolvimento de Software com formação Back-end em Python com Django (200h)** pelo **Instituto Federal de Brasília (IFB)**, em parceria com o **Instituto Hardware BR (HBR)**, vinculado ao **Ministério da Ciência, Tecnologia e Inovação (MCTI)**. Atualmente sigo em fase de residência/projeto prático, aplicando fundamentos de programação, organização de código, documentação, trabalho em equipe e boas práticas de desenvolvimento.
 
 Atualmente participo do programa **AWS re/Start - Escola da Nuvem**, desenvolvendo conhecimentos em fundamentos de TI, suporte técnico, computação em nuvem, segurança e resolução de problemas, com foco na transição para a área de Tecnologia da Informação.
 
