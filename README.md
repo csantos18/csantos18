@@ -1,48 +1,40 @@
 # Carlos Eduardo Neves dos Santos
 
-Desenvolvedor em formação, com foco em **Python**, **Django**, **JavaScript** e construção de aplicações web úteis, organizadas e bem documentadas.
+Desenvolvedor em formação, focado em criar aplicações web úteis, organizadas e bem documentadas.
 
-## Sobre mim
+Atualmente estudo e pratico desenvolvimento full stack, com mais atenção para **back-end**, **APIs**, **Django**, **JavaScript**, versionamento com **Git/GitHub** e construção de projetos com apresentação profissional.
 
-Estou desenvolvendo minha base como desenvolvedor full stack, com atenção especial para back-end, APIs, organização de projetos e boas práticas de versionamento. Gosto de transformar ideias simples em sistemas que resolvem problemas reais.
+## Stack
 
-Atualmente estudo e pratico:
-
-- Python e Django
-- APIs REST
-- JavaScript, HTML e CSS
-- Banco de dados com SQLite e PostgreSQL
-- Git, GitHub e documentação técnica
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Projetos em Destaque
 
-### Agenda SN Beauty
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Agenda SN Beauty](https://github.com/csantos18/agenda-sn-beauty) | Sistema de agendamento para salão de beleza, com site responsivo, painel administrativo, API Express, Supabase opcional, testes e documentação visual. | JavaScript, Node.js, Express, Supabase |
+| [DevLAb-Ronilson](https://github.com/csantos18/DevLAb-Ronilson) | Projeto Django acadêmico para gestão de usuários, equipes e projetos, organizado com apps, templates e dependências documentadas. | Python, Django, DRF |
+| [Campus Event Planner](https://github.com/csantos18/campus-event-planner--bfd-team-) | Aplicação em Python via console para cadastro, listagem, filtros e relatório de eventos acadêmicos. | Python |
 
-Aplicativo de agendamento para salão de beleza, com front-end responsivo, back-end em Node.js/Express, painel administrativo protegido, Supabase opcional, smoke tests e teste visual com Playwright.
+## O Que Estou Desenvolvendo
 
-Repositório: [agenda-sn-beauty](https://github.com/csantos18/agenda-sn-beauty)
+- Back-end com Python, Django e Django REST Framework.
+- APIs REST com regras de negócio claras.
+- Front-end com HTML, CSS e JavaScript.
+- Organização de repositórios para portfólio.
+- Testes, documentação e boas práticas de Git.
 
-### DevLAb-Ronilson
+## Objetivo
 
-Projeto Django para gestão de eventos, participantes e atividades, criado como prática de back-end e organização de entidades relacionadas.
-
-Repositório: [DevLAb-Ronilson](https://github.com/csantos18/DevLAb-Ronilson)
-
-### Campus Event Planner
-
-Aplicação em Python para planejar eventos acadêmicos via console, com cadastro, listagem e filtros.
-
-Repositório: [campus-event-planner--bfd-team-](https://github.com/csantos18/campus-event-planner--bfd-team-)
-
-## Tecnologias
-
-```text
-Python | Django | JavaScript | HTML | CSS | SQLite | PostgreSQL | Git | GitHub
-```
-
-## Em Evolução
-
-Este perfil acompanha minha jornada prática como desenvolvedor. Os repositórios estão sendo revisados para ter documentação clara, testes quando aplicável e uma apresentação mais profissional.
+Evoluir como desenvolvedor full stack, criando projetos cada vez mais completos, seguros, testáveis e fáceis de entender por outras pessoas.
 
 ## Contato
 
