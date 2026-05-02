@@ -1,8 +1,21 @@
 # Carlos Eduardo Neves dos Santos
 
-Desenvolvedor em formação, focado em criar aplicações web úteis, organizadas e bem documentadas.
+**Desenvolvedor full stack em formação | Python, Django, JavaScript e Node.js**
+
+Desenvolvedor em formação, focado em criar aplicações web úteis, organizadas, seguras e bem documentadas.
 
 Atualmente estudo e pratico desenvolvimento full stack, com mais atenção para **back-end**, **APIs**, **Django**, **JavaScript**, versionamento com **Git/GitHub** e construção de projetos com apresentação profissional.
+
+Também participo de projetos acadêmicos no **Instituto Federal de Brasília (IFB), Campus Gama**, em Brasília-DF, onde pratico fundamentos de programação, organização de código, documentação e trabalho em equipe.
+
+Atualmente participo do programa **AWS re/Start - Escola da Nuvem**, desenvolvendo conhecimentos em fundamentos de TI, suporte técnico, computação em nuvem, segurança e resolução de problemas, com foco na transição para a área de Tecnologia da Informação.
+
+## Perfil
+
+- Foco principal em back-end, APIs, regras de negócio e organização de projetos.
+- Experiência prática com projetos autorais e projetos acadêmicos.
+- Interesse em qualidade, segurança básica, testes, documentação, cloud e deploy.
+- Evolução contínua em desenvolvimento full stack com visão de produto.
 
 ## Stack
 
@@ -18,11 +31,18 @@ Atualmente estudo e pratico desenvolvimento full stack, com mais atenção para 
 
 ## Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Agenda SN Beauty](https://github.com/csantos18/agenda-sn-beauty) | Sistema de agendamento para salão de beleza, com site responsivo, painel administrativo, API Express, Supabase opcional, testes e documentação visual. | JavaScript, Node.js, Express, Supabase |
-| [DevLAb-Ronilson](https://github.com/csantos18/DevLAb-Ronilson) | Projeto Django acadêmico para gestão de usuários, equipes e projetos, organizado com apps, templates e dependências documentadas. | Python, Django, DRF |
-| [Campus Event Planner](https://github.com/csantos18/campus-event-planner--bfd-team-) | Aplicação em Python via console para cadastro, listagem, filtros e relatório de eventos acadêmicos. | Python |
+| Projeto | Contexto | Status | Descrição | Tecnologias |
+| --- | --- | --- | --- | --- |
+| [Agenda SN Beauty](https://github.com/csantos18/agenda-sn-beauty) | Projeto autoral | Em produção | Sistema de agendamento para salão de beleza, com site responsivo, painel administrativo, API Express, Supabase opcional, testes e documentação visual. | JavaScript, Node.js, Express, Supabase |
+| [DevLAb-Ronilson](https://github.com/csantos18/DevLAb-Ronilson) | Projeto acadêmico - IFB Campus Gama, Brasília-DF | Em evolução | Projeto Django para prática de back-end, apps, templates, configuração por ambiente e organização de dependências. | Python, Django, DRF |
+| [Campus Event Planner](https://github.com/csantos18/campus-event-planner--bfd-team-) | Projeto acadêmico - IFB Campus Gama, Brasília-DF | Acadêmico | Aplicação em Python via console para cadastro, listagem, filtros e relatório de eventos acadêmicos. | Python |
+
+## Como Trabalho
+
+- Estruturo repositórios com README claro, instruções de execução e contexto do projeto.
+- Uso Git e GitHub para versionamento, histórico de evolução e organização do portfólio.
+- Priorizo configurações por ambiente, proteção de dados sensíveis e boas práticas básicas de segurança.
+- Busco validar projetos com testes, checks locais e revisão antes de publicar alterações.
 
 ## O Que Estou Desenvolvendo
 
@@ -30,7 +50,7 @@ Atualmente estudo e pratico desenvolvimento full stack, com mais atenção para 
 - APIs REST com regras de negócio claras.
 - Front-end com HTML, CSS e JavaScript.
 - Organização de repositórios para portfólio.
-- Testes, documentação e boas práticas de Git.
+- Testes, documentação, segurança básica e boas práticas de Git.
 
 ## Objetivo
 
