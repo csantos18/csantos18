@@ -35,7 +35,7 @@ Atualmente participo do programa **AWS re/Start - Escola da Nuvem**, desenvolven
 
 | Projeto | Contexto | Status | Descrição | Tecnologias |
 | --- | --- | --- | --- | --- |
-| [Agenda SN Beauty](https://github.com/csantos18/agenda-sn-beauty) | Projeto autoral | Em produção | Sistema de agendamento para salão de beleza, com site responsivo, painel administrativo, API Express, Supabase opcional, testes e documentação visual. | JavaScript, Node.js, Express, Supabase |
+| [Agenda SN Beauty](https://agenda-sn-beauty.onrender.com) | Projeto autoral | Em produção | Sistema de agendamento para salão de beleza, com site responsivo, painel administrativo, API Express, Supabase opcional, testes e documentação visual. | JavaScript, Node.js, Express, Supabase |
 | [Central de Chamados Inteligente](https://github.com/csantos18/central-chamados-inteligente) | Projeto autoral | Pronto para deploy | Sistema para abertura, classificação e acompanhamento de chamados, com painel administrativo, SLA, fila de atendimento, notas internas, resposta ao cliente, LGPD, auditoria, permissões e testes. | Python, Flask, SQLite, pytest |
 | [Trilha da Palavra SN](https://trilha-da-palavra-sn.netlify.app) | Projeto autoral | Em produção | Ferramenta de desafios bíblicos práticos para crianças de 9 a 13 anos, com missões semanais, modo grupo, cartão compartilhável, visual responsivo e deploy gratuito no Netlify. | HTML, CSS, JavaScript, Netlify |
 | [DevLAb-Ronilson](https://github.com/csantos18/DevLAb-Ronilson) | Projeto acadêmico - IFB Campus Gama, Brasília-DF | Em evolução | Projeto Django para prática de back-end, apps, templates, configuração por ambiente e organização de dependências. | Python, Django, DRF |
