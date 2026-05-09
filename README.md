@@ -1,14 +1,14 @@
 # Carlos Eduardo Neves dos Santos
 
-**Desenvolvedor full stack em formação | Python, Django, JavaScript e Node.js**
+**Desenvolvedor full stack em formação | Python, Django, JavaScript, Node.js e Cloud**
 
-Desenvolvedor em formação, focado em criar aplicações web úteis, organizadas, seguras e bem documentadas.
+Desenvolvedor full stack em formação, com foco em back-end, APIs e aplicações web usando Python, Django, JavaScript e Node.js.
 
-Atualmente estudo e pratico desenvolvimento full stack, com mais atenção para **back-end**, **APIs**, **Django**, **JavaScript**, versionamento com **Git/GitHub** e construção de projetos com apresentação profissional.
+Tenho interesse em criar soluções úteis, seguras, organizadas e bem documentadas, aplicando boas práticas de desenvolvimento, versionamento com Git/GitHub e construção de projetos com apresentação profissional.
 
-Concluí recentemente o curso de **Desenvolvimento de Software com formação Back-end em Python com Django (200h)** pelo **Instituto Federal de Brasília (IFB)**, em parceria com o **Instituto Hardware BR (HBR)**, vinculado ao **Ministério da Ciência, Tecnologia e Inovação (MCTI)**. Atualmente sigo em fase de residência/projeto prático, aplicando fundamentos de programação, organização de código, documentação, trabalho em equipe e boas práticas de desenvolvimento.
+Concluí a formação **Desenvolvimento de Software - Back-end em Python com Django (200h)** pelo **Instituto Federal de Brasília (IFB)**, em parceria com o **Instituto Hardware BR (HBR)**, vinculada ao **Ministério da Ciência, Tecnologia e Inovação (MCTI)**. Atualmente sigo em fase de residência/projeto prático, aplicando fundamentos de programação, documentação, organização de código e trabalho em equipe.
 
-Atualmente participo do programa **AWS re/Start - Escola da Nuvem**, desenvolvendo conhecimentos em fundamentos de TI, suporte técnico, computação em nuvem, segurança e resolução de problemas, com foco na transição para a área de Tecnologia da Informação.
+Também participo do programa **AWS re/Start - Escola da Nuvem**, desenvolvendo conhecimentos em fundamentos de TI, suporte técnico, computação em nuvem, segurança e resolução de problemas.
 
 ## Perfil
 
