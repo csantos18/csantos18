@@ -6,7 +6,7 @@ Desenvolvedor full stack em formação, com foco em back-end, APIs e aplicaçõe
 
 Tenho interesse em criar soluções úteis, seguras, organizadas e bem documentadas, aplicando boas práticas de desenvolvimento, versionamento com Git/GitHub e construção de projetos com apresentação profissional.
 
-Concluí a formação **Desenvolvimento de Software - Back-end em Python com Django (200h)** pelo **Instituto Federal de Brasília (IFB)**, em parceria com o **Instituto Hardware BR (HBR)**, vinculada ao **Ministério da Ciência, Tecnologia e Inovação (MCTI)**. Atualmente sigo em fase de residência/projeto prático, aplicando fundamentos de programação, documentação, organização de código e trabalho em equipe.
+Concluí a formação **Desenvolvimento de Software - Back-end em Python com Django (200h)** pelo **Instituto Federal de Brasília (IFB)**, em parceria com o **Instituto Hardware BR (HBR)**, vinculada ao **Ministério da Ciência, Tecnologia e Inovação (MCTI)**. Concluí a fase de residência e projeto prático, consolidando fundamentos de programação, documentação, organização de código e trabalho em equipe.
 
 Também participo do programa **AWS re/Start - Escola da Nuvem**, desenvolvendo conhecimentos em fundamentos de TI, suporte técnico, computação em nuvem, segurança e resolução de problemas.
 
